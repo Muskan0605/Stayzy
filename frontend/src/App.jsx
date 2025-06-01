@@ -13,7 +13,7 @@ import PagePlace from './pages/PlacePage';
 import BookingsPages from './pages/BookingsPages';
 import BookingPage from './pages/BookingPage';
 
-axios.defaults.baseURL = 'http://localhost:4000';
+axios.defaults.baseURL = 'https://stayzy-dk96awpiw-muskan-srivastavas-projects-fc207468.vercel.app/';
 axios.defaults.withCredentials = true;
 
 
