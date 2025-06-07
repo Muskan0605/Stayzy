@@ -30,6 +30,9 @@ Welcome to **Stayzy**, a modern property booking platform inspired by Airbnb, bu
 ![Screenshot 2025-06-07 125126](https://github.com/user-attachments/assets/fe2817dd-64de-4e18-8c19-3c1a7119e9bd)
 ![Screenshot 2025-06-07 125144](https://github.com/user-attachments/assets/b5b297f7-f36e-4f88-a17e-97e561db7883)
 ![Screenshot 2025-06-07 125158](https://github.com/user-attachments/assets/03274d20-f475-4eab-80be-74df920c76c6)
+![Screenshot 2025-06-07 125317](https://github.com/user-attachments/assets/4ac412f3-d3be-411d-b5ca-a004b8aaeea0)
+![Screenshot 2025-06-07 125904](https://github.com/user-attachments/assets/378d55c1-8292-4154-8fab-6eb81cb8ef3c)
+
 
 
 ### Prerequisites
